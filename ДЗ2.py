@@ -10,4 +10,3 @@ v = c - b
 print (v)
 n = d / b
 print (n)
-1331133
